@@ -1,0 +1,100 @@
+
+@media (max-width:700px){
+    .header{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .header2{
+        flex-direction: column;
+    }
+    .header3{
+        padding: 10px;
+        flex-direction: column;
+    }
+
+    /* nav{
+        padding: 10px;
+        flex-direction: column;
+
+    } */
+
+    .imagenCuerpo img:hover {
+      transform: scale(1.3); 
+      width: 100%;
+      border: 5px solid rgb(220, 94, 224);
+  }
+    
+
+    .headerIzquierda{
+        padding: 10px;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .headerIzquierda div{
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .cuerpoPrincipal{
+      padding: 10px;
+        flex-direction: column;
+    }
+
+    .cuerpo{
+      padding: 10px;
+        flex-direction: column;
+        width: 100%;
+        display: flex;
+    }
+
+    .imagenCuerpo{
+      padding: 10px;
+        flex-direction: column;
+        width: 100%;
+        display: flex;
+    }
+
+    .cuerpoGrande{
+      padding: 10px;
+        flex-direction: column;
+        width: 100%;
+        display: flex;
+    }
+
+    .cuerpoInferior{
+      padding: 10px;
+        flex-direction: column;
+        width: 100%;
+        display: flex;
+    }
+
+    .similares{
+      padding: 10px;
+        flex-direction: column;
+        width: 100%;
+        display: flex;
+    }
+
+    .imgSimilares{
+      padding: 10px;
+      flex-direction: column;
+      width: 100%;
+      display: flex;
+    }
+
+    .productos {
+      display: none;
+    }
+
+    /* BUSQUEDA */
+
+    .buscar {
+      display: none;
+    }
+    
+}
+
